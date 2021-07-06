@@ -121,12 +121,8 @@ footer {
 }
 
 .grn-ftr {
-    color: darkolivegreen;
+    color: green;
     font-weight: bold;
-}
-
-footer h4,h5 {
-    color: darkolivegreen;
 }
 
 footer small {
