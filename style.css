@@ -1,0 +1,52 @@
+* {
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+.overview {
+    display: flex;
+}
+
+.overview-container {
+    width: 50%;
+    padding: 5%;
+}
+
+.overview-container img {
+    width: 90%;
+}
+
+.skip {
+    color: green;
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    background: green;
+    padding: 10px 40px;
+    margin: 15px 0;
+    text-align: center;
+    border-radius: 1em;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.about-us {
+    display: flex;
+}
+
+.about-container {
+    width: 50%;
+    padding: 5%;
+}
+
+.about-container img {
+    width: 90%;
+}
+
+
