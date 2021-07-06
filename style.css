@@ -8,6 +8,10 @@ body {
     background: cornsilk;
 }
 
+section {
+    margin: 3em 0;
+}
+
 h1 {
     font-size: 4em;
 }
@@ -48,6 +52,9 @@ h1 {
 
 .about-us {
     display: flex;
+    background-image: url("images/bg2.png");
+    background-size: cover;
+    background-position: center;
 }
 
 .about-container {
@@ -66,6 +73,7 @@ h1 {
 
 .our-recipes {
     text-align: center;
+    margin: 6em 0;
 }
 
 .our-recipe-intro {
@@ -97,7 +105,7 @@ h1 {
 .follower-container {
     display: flex;
     width: 87%;
-    margin: 3em auto;
+    margin: 3em auto 8em auto;
     padding: 2em 0;
     text-align: center;
     background: rgb(179, 255, 179);
