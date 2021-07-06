@@ -8,6 +8,24 @@ body {
     background: cornsilk;
 }
 
+.topnav {
+	overflow: hidden;
+    background: lightgreen;
+	border-radius: 0 0 15px 15px;
+    margin: 0 3%;
+}
+
+.topnav a {
+	float: left;
+	display: block;
+	text-decoration: none;
+	color: rgb(6, 58, 6);
+	text-align: center;
+	padding: 20px 25px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
 section {
     margin: 3em 0;
 }
@@ -123,7 +141,7 @@ h1 {
 }
 
 footer {
-    background:rgb(111, 248, 111);
+    background: lightgreen;
     text-align: center;
     padding: 1em;
     border-radius: 15px 15px 0 0;
