@@ -53,6 +53,7 @@ h1 {
 .about-container {
     width: 50%;
     padding: 5%;
+    margin: auto;
 }
 
 .about-container p {
