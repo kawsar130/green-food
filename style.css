@@ -118,11 +118,20 @@ footer {
     text-align: center;
     padding: 1em;
     border-radius: 15px 15px 0 0;
+    font-size: 1.2em;
+}
+
+footer h2 {
+    font-size: 2em;
+}
+
+footer h4,h5 {
+    color:rgb(77, 77, 0);
+    font-size: 0.9em;
 }
 
 .grn-ftr {
     color: green;
-    font-weight: bold;
 }
 
 footer small {
