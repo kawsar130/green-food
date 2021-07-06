@@ -67,6 +67,12 @@ h1 {
     text-align: center;
 }
 
+.our-recipe-intro {
+    margin: 15px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
 .recipe-list {
     display: flex;
     padding: 0 5%;
@@ -79,6 +85,7 @@ h1 {
     background: rgb(199, 255, 199);
     border-radius: 15px;
     box-shadow: 5px 5px 15px darkgreen;
+    cursor: pointer;
 }
 
 .recipes img {
